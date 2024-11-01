@@ -1,4 +1,4 @@
-# Ghezavat_CSC357_Program_1
+# word count
 
 When using `stdin` for word_count, do click `enter` then `ctrl d` after you are done typing.
 
